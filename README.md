@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying at Xiamen University.
+- 🌱 I’m currently learning AI!
+- ⚡ Fun fact: from Mars, learning earth language 😀
