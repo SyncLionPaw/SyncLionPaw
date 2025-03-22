@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at Xiamen University.
 - 🌱 I’m currently learning AI!
-- ⚡ Fun fact: from Mars, learning earth language 😀
+- ⚡ Fun fact: from Mars, learning Earth language 😀
+E
